@@ -1,0 +1,28 @@
+
+body {
+    background: #1F1F1F;
+    text-align: center;
+}
+h1 {
+    font-family: "Consolas";
+    color: #fd2288;
+    font-size: 48pt;
+}
+#result {
+    font-family: "Consolas";
+    color: #cffb4c;
+    font-size: 216pt;
+    padding: 0px;
+}
+input {
+    font-family: "Consolas";
+    font-size: 84pt;
+    padding-left: 32px;
+    padding-right: 32px;
+    color: #fff;
+    background-color: #0a77ab;
+    border: none;
+}
+input+p {
+    margin-top: 32px;
+}
